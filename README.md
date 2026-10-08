@@ -97,4 +97,6 @@ Este projeto foi desenvolvido para fins de **aprendizado e portfólio**, demonst
 
 A proposta é oferecer uma solução simples, organizada e funcional para quem busca centralizar suas informações e facilitar a preparação dos dados para a Declaração de Imposto de Renda.
 
+📥 **[Baixar o Organizador de Declaração de Imposto de Renda](./organizador-ir.xlsx)**
+
 > **Observação:** Este projeto tem finalidade organizacional e educacional e não substitui orientação de um profissional contábil ou tributário.
