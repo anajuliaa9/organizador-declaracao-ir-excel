@@ -30,7 +30,7 @@ O organizador é dividido em **3 abas principais**, conectadas por uma navegaç�
 - Informações sobre a declaração anterior
 - Dependentes e residência no exterior
 
-![Aba Titular](imagens/aba-titular.png)
+![Aba Titular](aba-titular.png)
 
 ---
 
@@ -42,7 +42,7 @@ O organizador é dividido em **3 abas principais**, conectadas por uma navegaç�
 
 A aba também apresenta o **valor total**, facilitando a visualização dos valores cadastrados.
 
-![Aba Informes](imagens/aba-informes.png)
+![Aba Informes](aba-informes.png)
 
 ---
 
@@ -56,7 +56,7 @@ A tabela conta com campos para:
 - Categoria
 - Valor
 
-![Aba Notas](imagens/aba-notas.png)
+![Aba Notas](aba-notas.png)
 
 ## ⚙️ Recursos utilizados
 
